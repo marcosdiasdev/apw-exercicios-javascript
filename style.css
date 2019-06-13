@@ -1,0 +1,29 @@
+body {
+    background-color: #ff5252;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 510px;
+}
+
+div {
+    visibility: visible;
+    border-radius: 8px;
+    width: 150px;
+    height: 150px;
+    background-color: #fdff58;
+    margin: 10px;
+
+    font-size: 100px;
+    font-family: 'Monaco';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
